@@ -4,7 +4,6 @@ title: about
 permalink: /
 subtitle: >
   <a href='https://www.math.ku.dk/english/research/spt/'>Statistics and Probability Theory, Department of Mathematical Sciences, University of Copenhagen</a>.
-profile:. 
 
 profile:
   align: right
