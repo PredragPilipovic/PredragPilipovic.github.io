@@ -11,19 +11,16 @@ nav: true
 <div class="publications">
 
   {%- for y in page.years %}
+    <h2 class="year">{{y}}</h2>
 
-  <!-- Preprints Section -->
-  <h2 class="year">Preprints ({{y}})</h2>
-  <div class="preprints">
-    {% bibliography -f papers -q @*[year={{y}}][status="preprint"]* %}
-  </div>
+    <!-- published papers -->
+    <h3>published papers</h3>
+    {% bibliography -f papers -q @article*[year={{y}}] %}
 
-  <!-- Published Section -->
-  <h2 class="year">Published ({{y}})</h2>
-  <div class="published">
-    {% bibliography -f papers -q @*[year={{y}}][status="published"]* %}
-  </div>
-
+    <!-- preprints -->
+    <h3>preprints</h3>
+    {% bibliography -f papers -q @misc*[year={{y}}] %}
+    
   {%- endfor %}
 
 </div>
