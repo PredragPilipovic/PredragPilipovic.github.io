@@ -49,9 +49,9 @@ rss_icon: true
 
 navbar_fixed: true
 footer_fixed: true
-search_enabled: true
-socials_in_search: true
-bib_search: true
+search_enabled: false
+socials_in_search: false
+bib_search: false
 
 # Dimensions
 max_width: 930px
@@ -113,7 +113,7 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
 contact_note: >
-  If you want to get in touch, send an email at <a href="mailto:{{ predrag@math.ku.dk }}">{{ predrag@math.ku.dk }}</a>.
+  If you want to get in touch, send an email at <a href="mailto:predrag@math.ku.dk">predrag@math.ku.dk</a>.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
