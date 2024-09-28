@@ -15,7 +15,7 @@ profile:
     <p>2100 Copenhagen, Denmark</p>
 
 news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
@@ -24,3 +24,5 @@ Hi, I am Predrag, a double degree PhD student at the University of Copenhagen (K
 My research focuses on developing statistical methods for stochastic processes, particularly in stochastic differential equations (SDEs). I'm also interested in exploring new approaches to statistical inference, optimization techniques, and their applications in fields like ecology and beyond. Alongside my research, I enjoy teaching and helping students navigate the world of statistics.
 
 I hold a BSc in Mathematics from the University of Belgrade, as well as two MSc degrees: one in Applied Mathematics and the other in Mathematical Statistics, from the University of Grenoble Alpes and the University of Belgrade, respectively.
+
+<em>Keywords:</em> asymptotic normality, convergence rates, dynamical systems, parameter estimation, splitting schemes, statistics, stochastic differential equations, theoretical statistics
