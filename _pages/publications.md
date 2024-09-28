@@ -15,13 +15,13 @@ nav: true
   <!-- Preprints Section -->
   <h2 class="year">Preprints ({{y}})</h2>
   <div class="preprints">
-    {% bibliography -f papers -q @*[year={{y}} and status="preprint"]* %}
+    {% bibliography -f papers -q @*[year={{y}}][status="preprint"]* %}
   </div>
 
   <!-- Published Section -->
   <h2 class="year">Published ({{y}})</h2>
   <div class="published">
-    {% bibliography -f papers -q @*[year={{y}} and status="published"]* %}
+    {% bibliography -f papers -q @*[year={{y}}][status="published"]* %}
   </div>
 
   {%- endfor %}
