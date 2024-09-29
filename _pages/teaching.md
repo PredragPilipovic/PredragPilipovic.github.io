@@ -4,17 +4,17 @@ permalink: /teaching/
 title: teaching
 description: 
 nav: true
-nav_order: 6
+nav_order: 4
 ---
 
 <!-- Content -->
 <div class="container mt-5">
-<h3 id="current-teaching-responsibilities">current teaching responsibilities</h3>
+<h3 id="current-responsibilities">current responsibilities</h3>
 <ul>
   <li>teaching assistant for MSc course <em>Regression with R</em> at the University of Copenhagen (2024/25) (including two guest lectures)</li>
 </ul>
 
-<h3 id="previous-teaching-experience">previous teaching experience</h3>
+<h3 id="previous-experience">previous experience</h3>
 <ul>
   <li>course responsible (including lectures) for MSc course <em>Inference for Stochastic Differential Equations</em> at the University of Copenhagen (2023/24)</li>
   <li>teaching assistant for MSc course <em>Regression with R</em> at the University of Copenhagen (2021/22)</li>
