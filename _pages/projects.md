@@ -8,7 +8,7 @@ nav_order: 3
 ---
 
 <!-- Content -->
-<div class="container mt-5">
+<!-- <div class="container mt-5">
 <h3 id="invited">invited</h3>
 <ul>
   <li>Parameter Estimation in First and Second‑Order Nonlinear Stochastic Differential Equations using the Strang Splitting Scheme - <em>23rd European Young Statisticians Meeting (EYSM),</em> Ljubljana, Slovenia (September 2023) </li>
@@ -30,4 +30,4 @@ nav_order: 3
   <li>Splitting Schemes for SDE Parameter Estimation - <em>11th Young Researchers Workshop of the Centre for Statistics,</em> Bielefeld, Germany (November 2022)</li>
 </ul>
 
-</div>
+</div> -->
