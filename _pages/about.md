@@ -19,7 +19,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi, I am Predrag, a double degree PhD student at the University of Copenhagen (KU) and Bielefeld University (UNIBI), working under the supervision of [Prof. Susanne Ditlevsen](https://web.math.ku.dk/~susanne/) from KU and [Prof. Roland Langrock](https://www.uni-bielefeld.de/fakultaeten/wirtschaftswissenschaften/lehrbereiche/stats/team/prof.-dr.-roland-langrock/) from UNIBI. 
+Hi, I am Predrag, a postdoc in mathematical statistics at the University of Copenhagen.
+
+I hold a double PhD in mathematical statistics from the University of Copenhagen (KU) and Bielefeld University (UNIBI). I was working under the supervision of [Prof. Susanne Ditlevsen](https://web.math.ku.dk/~susanne/) from KU and [Prof. Roland Langrock](https://www.uni-bielefeld.de/fakultaeten/wirtschaftswissenschaften/lehrbereiche/stats/team/prof.-dr.-roland-langrock/) from UNIBI. 
 
 My research focuses on developing statistical methods for stochastic processes, particularly in stochastic differential equations (SDEs). I'm also interested in exploring new approaches to statistical inference, optimization techniques, and their applications in fields like ecology and beyond. Alongside my research, I enjoy teaching and helping students navigate the world of statistics.
 
