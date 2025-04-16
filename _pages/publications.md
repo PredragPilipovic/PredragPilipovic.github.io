@@ -17,5 +17,9 @@ nav: true
   <!-- preprints -->
   <h3>preprints</h3>
   {% bibliography -f papers -q @misc %}
+
+  <!-- preprints -->
+  <h3>thesis</h3>
+  {% bibliography -f papers -q @phdthesis %}
   
 </div>
