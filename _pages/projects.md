@@ -16,7 +16,7 @@ nav_order: 3
 
 <h3 id="contributed">contributed</h3>
 <ul>
-  <li>Parameter Estimation in Second-Order Stochastic Differential Equations - 14th Symposium "Mathematics and Applications",</em> Belgrade, Serbia (December 2024)</li>
+  <li>Parameter Estimation in Second-Order Stochastic Differential Equations - <em>14th Symposium "Mathematics and Applications",</em> Belgrade, Serbia (December 2024)</li>
   <li>Second‑Order Stochastic Differential Equations: Parameter Estimation and Applications to Greenland Ice Core Data - <em>2023 IMS International Conference on Statistics and Data Science (ICSDS),</em> Lisbon, Portugal (December 2023)</li>
   <li> Parameter Estimation in Second‑Order SDEs using Strang Estimator - <em>29th Nordic Conference in Mathematical Statistics (NORDSTAT),</em> Gothenburg, Sweden (June 2023)</li>
   <li>Parameter Estimation in Nonlinear Multivariate Stochastic Differential Equations Based on Splitting Schemes - <em>2022 IMS International Conference on Statistics and Data Science (ICSDS),</em> Florence, Italy (December 2022)</li>
